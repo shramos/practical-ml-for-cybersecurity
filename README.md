@@ -3,7 +3,7 @@
 
 En este repositorio se muestran más de veinte ejercicios prácticos diferentes aplicados a conjuntos de datos reales para la solución de distintos problemas dentro del ámbito de la seguridad de la información mediante la aplicación de técnicas de Machine Learning.
 
-Los ejercicios forman parte de  curso de UDEMY **_Machine Learning desde cero: Proyectos reales en Python 3._**
+Los ejercicios forman parte de  curso de UDEMY [**_Machine Learning desde cero: Proyectos reales en Python 3._**](https://www.udemy.com/course/machine-learning-desde-cero/?referralCode=008FE3DCE6F9C5EDA6DC)
 
 En este curso de 30 horas de vídeo se presentan los fundamentos del Machine Learning desde una perspectiva eminentemente práctica. Cada uno de los ejercicios prácticos presentados en este repositorio, se sustentan en un conjunto de fundamentos teóricos y matemáticos que se exponen a lo largo del curso comenzando con la explicación de los conceptos básicos, al alcance de cualquier persona, y construyendo intuiciones hasta la presentación de técnicas complejas.
 
