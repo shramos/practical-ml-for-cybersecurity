@@ -66,7 +66,3 @@ Con la utilidad [Jupyter Notebook](https://jupyter.org) incluida en Anaconda pue
 
 **Para más conjuntos de datos relacionados con el ámbito de la seguridad de la información:**
 * [Awesome Cybersecurity Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
-
-# Contact
-
-[shramos@protonmail.com](mailto:shramos@protonmail.com)
